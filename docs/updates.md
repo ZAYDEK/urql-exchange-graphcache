@@ -16,7 +16,7 @@ Let's look at three additional methods provided by the cache to enable
 updates.
 
 The first we'll look at is `updateQuery`. This method, given an object
-containg the query and optionally some variables as first argument and
+containing the query and optionally some variables as first argument and
 a callback with the result from this query as the second, will update the
 cache.
 
